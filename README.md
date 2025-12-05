@@ -1,0 +1,2 @@
+# slot-game
+test task
